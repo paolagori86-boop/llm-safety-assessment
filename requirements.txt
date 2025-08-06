@@ -1,0 +1,6 @@
+anthropic-api-client==1.0.0
+openai
+pandas
+numpy
+tqdm
+pytest
